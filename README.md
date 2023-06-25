@@ -1,4 +1,4 @@
-# QR Reader
+# QR-Code Reader
 
 This is a Python application that uses PyQt5, OpenCV, and PyZbar to scan QR codes from a webcam feed or an uploaded image file. Scanned QR code data is displayed in the application window and can be copied to the clipboard.
 
